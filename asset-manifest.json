@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-menucard/static/css/main.efa66058.css",
+    "main.js": "/react-menucard/static/js/main.e19e46fd.js",
+    "static/js/787.b0a268bf.chunk.js": "/react-menucard/static/js/787.b0a268bf.chunk.js",
+    "index.html": "/react-menucard/index.html",
+    "main.efa66058.css.map": "/react-menucard/static/css/main.efa66058.css.map",
+    "main.e19e46fd.js.map": "/react-menucard/static/js/main.e19e46fd.js.map",
+    "787.b0a268bf.chunk.js.map": "/react-menucard/static/js/787.b0a268bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa66058.css",
+    "static/js/main.e19e46fd.js"
+  ]
+}
